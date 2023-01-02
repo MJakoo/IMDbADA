@@ -1,14 +1,14 @@
 {
-  "main.css": "/IMDbADA/static/css/main.0cf5fed7.chunk.css",
-  "main.js": "/IMDbADA/static/js/main.ad29cc7f.chunk.js",
-  "main.js.map": "/IMDbADA/static/js/main.ad29cc7f.chunk.js.map",
-  "static/js/1.f56eed53.chunk.js": "/IMDbADA/static/js/1.f56eed53.chunk.js",
-  "static/js/1.f56eed53.chunk.js.map": "/IMDbADA/static/js/1.f56eed53.chunk.js.map",
+  "main.css": "/IMDbADA/static/css/main.4b8fade4.chunk.css",
+  "main.js": "/IMDbADA/static/js/main.e05f11ad.chunk.js",
+  "main.js.map": "/IMDbADA/static/js/main.e05f11ad.chunk.js.map",
+  "static/js/1.6b5bda8d.chunk.js": "/IMDbADA/static/js/1.6b5bda8d.chunk.js",
+  "static/js/1.6b5bda8d.chunk.js.map": "/IMDbADA/static/js/1.6b5bda8d.chunk.js.map",
   "runtime~main.js": "/IMDbADA/static/js/runtime~main.0bcb3c7a.js",
   "runtime~main.js.map": "/IMDbADA/static/js/runtime~main.0bcb3c7a.js.map",
   "static/media/logo-color.png": "/IMDbADA/static/media/logo-color.11d1df8d.png",
-  "static/css/main.0cf5fed7.chunk.css.map": "/IMDbADA/static/css/main.0cf5fed7.chunk.css.map",
+  "static/css/main.4b8fade4.chunk.css.map": "/IMDbADA/static/css/main.4b8fade4.chunk.css.map",
   "index.html": "/IMDbADA/index.html",
-  "precache-manifest.81554eb06dfd6500b5f9a7b088e83622.js": "/IMDbADA/precache-manifest.81554eb06dfd6500b5f9a7b088e83622.js",
+  "precache-manifest.2d45595e33588e5e1830477702fa3efa.js": "/IMDbADA/precache-manifest.2d45595e33588e5e1830477702fa3efa.js",
   "service-worker.js": "/IMDbADA/service-worker.js"
 }
