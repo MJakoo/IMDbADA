@@ -1,7 +1,7 @@
 {
   "main.css": "/IMDbADA/static/css/main.5198981b.chunk.css",
-  "main.js": "/IMDbADA/static/js/main.10c14944.chunk.js",
-  "main.js.map": "/IMDbADA/static/js/main.10c14944.chunk.js.map",
+  "main.js": "/IMDbADA/static/js/main.bc4d0d69.chunk.js",
+  "main.js.map": "/IMDbADA/static/js/main.bc4d0d69.chunk.js.map",
   "static/js/1.371d2edd.chunk.js": "/IMDbADA/static/js/1.371d2edd.chunk.js",
   "static/js/1.371d2edd.chunk.js.map": "/IMDbADA/static/js/1.371d2edd.chunk.js.map",
   "runtime~main.js": "/IMDbADA/static/js/runtime~main.0bcb3c7a.js",
@@ -12,6 +12,6 @@
   "static/media/f.png": "/IMDbADA/static/media/f.afbb447e.png",
   "static/css/main.5198981b.chunk.css.map": "/IMDbADA/static/css/main.5198981b.chunk.css.map",
   "index.html": "/IMDbADA/index.html",
-  "precache-manifest.f22f38ffa396544e52e3a8ab12ca9564.js": "/IMDbADA/precache-manifest.f22f38ffa396544e52e3a8ab12ca9564.js",
+  "precache-manifest.bccb15162d3838bb4977ab7824259c96.js": "/IMDbADA/precache-manifest.bccb15162d3838bb4977ab7824259c96.js",
   "service-worker.js": "/IMDbADA/service-worker.js"
 }
