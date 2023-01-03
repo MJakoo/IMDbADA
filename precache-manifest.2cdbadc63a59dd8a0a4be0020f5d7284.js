@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bc4d0d69506fe1bb1021",
+    "revision": "4cf0aa07837c30ec92af",
     "url": "/IMDbADA/static/css/main.5198981b.chunk.css"
   },
   {
-    "revision": "bc4d0d69506fe1bb1021",
-    "url": "/IMDbADA/static/js/main.bc4d0d69.chunk.js"
+    "revision": "4cf0aa07837c30ec92af",
+    "url": "/IMDbADA/static/js/main.4cf0aa07.chunk.js"
   },
   {
     "revision": "371d2eddb37d037b5a47",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/IMDbADA/static/media/f.afbb447e.png"
   },
   {
-    "revision": "02bdd4b188b316840e77e7e1427f8568",
+    "revision": "a9a800e530a3c8f143841ffb6164071f",
     "url": "/IMDbADA/index.html"
   }
 ];
