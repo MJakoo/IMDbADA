@@ -1,17 +1,17 @@
 {
-  "main.css": "/IMDbADA/static/css/main.5198981b.chunk.css",
-  "main.js": "/IMDbADA/static/js/main.4cf0aa07.chunk.js",
-  "main.js.map": "/IMDbADA/static/js/main.4cf0aa07.chunk.js.map",
-  "static/js/1.371d2edd.chunk.js": "/IMDbADA/static/js/1.371d2edd.chunk.js",
-  "static/js/1.371d2edd.chunk.js.map": "/IMDbADA/static/js/1.371d2edd.chunk.js.map",
-  "runtime~main.js": "/IMDbADA/static/js/runtime~main.0bcb3c7a.js",
-  "runtime~main.js.map": "/IMDbADA/static/js/runtime~main.0bcb3c7a.js.map",
-  "static/media/logo-color.png": "/IMDbADA/static/media/logo-color.11d1df8d.png",
-  "static/media/j.png": "/IMDbADA/static/media/j.e4665f98.png",
-  "static/media/h.png": "/IMDbADA/static/media/h.cf22c607.png",
-  "static/media/f.png": "/IMDbADA/static/media/f.afbb447e.png",
-  "static/css/main.5198981b.chunk.css.map": "/IMDbADA/static/css/main.5198981b.chunk.css.map",
-  "index.html": "/IMDbADA/index.html",
-  "precache-manifest.2cdbadc63a59dd8a0a4be0020f5d7284.js": "/IMDbADA/precache-manifest.2cdbadc63a59dd8a0a4be0020f5d7284.js",
-  "service-worker.js": "/IMDbADA/service-worker.js"
+  "files": {
+    "main.css": "/IMDbADA/static/css/main.3e0182e4.css",
+    "main.js": "/IMDbADA/static/js/main.47ff20d1.js",
+    "static/media/h.png": "/IMDbADA/static/media/h.1d1b8cd5e0cd238074e1.png",
+    "static/media/f.png": "/IMDbADA/static/media/f.8c62e7ae38821119720c.png",
+    "static/media/j.png": "/IMDbADA/static/media/j.4d96adea5e315ac4829a.png",
+    "static/media/logo-color.png": "/IMDbADA/static/media/logo-color.65a3852aa952f3760065.png",
+    "index.html": "/IMDbADA/index.html",
+    "main.3e0182e4.css.map": "/IMDbADA/static/css/main.3e0182e4.css.map",
+    "main.47ff20d1.js.map": "/IMDbADA/static/js/main.47ff20d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0182e4.css",
+    "static/js/main.47ff20d1.js"
+  ]
 }
