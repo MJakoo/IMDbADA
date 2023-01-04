@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/IMDbADA/static/css/main.3e0182e4.css",
-    "main.js": "/IMDbADA/static/js/main.47ff20d1.js",
+    "main.css": "/IMDbADA/static/css/main.88a138c0.css",
+    "main.js": "/IMDbADA/static/js/main.e2210f40.js",
     "static/media/h.png": "/IMDbADA/static/media/h.1d1b8cd5e0cd238074e1.png",
     "static/media/f.png": "/IMDbADA/static/media/f.8c62e7ae38821119720c.png",
     "static/media/j.png": "/IMDbADA/static/media/j.4d96adea5e315ac4829a.png",
     "static/media/logo-color.png": "/IMDbADA/static/media/logo-color.65a3852aa952f3760065.png",
     "index.html": "/IMDbADA/index.html",
-    "main.3e0182e4.css.map": "/IMDbADA/static/css/main.3e0182e4.css.map",
-    "main.47ff20d1.js.map": "/IMDbADA/static/js/main.47ff20d1.js.map"
+    "main.88a138c0.css.map": "/IMDbADA/static/css/main.88a138c0.css.map",
+    "main.e2210f40.js.map": "/IMDbADA/static/js/main.e2210f40.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e0182e4.css",
-    "static/js/main.47ff20d1.js"
+    "static/css/main.88a138c0.css",
+    "static/js/main.e2210f40.js"
   ]
 }
